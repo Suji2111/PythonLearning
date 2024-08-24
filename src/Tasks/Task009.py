@@ -6,12 +6,12 @@
 # For numbers that are multiples of both 3 and 5, print "FizzBuzz."
 
 
-for i in range(1, 101, 1):
+for i in range(1, 100, 1):
     if i % 3 == 0 and i % 5 == 0:
-        print("FizzBuzz")
+        print(f"{i} - FizzBuzz")
     elif i % 3 == 0:
-        print("Fizz")
+        print(f"{i} - Fizz")
     elif i % 5 == 0:
-        print("Buzz")
+        print(f"{i} - Buzz")
     else:
         print(i)
