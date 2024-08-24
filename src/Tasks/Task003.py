@@ -29,7 +29,7 @@ a = int(input("Enter the value\n"))
 b = int(input("Enter another value\n"))
 print(a**b)
 
-# In Python ^ operator is the bitwise XOR (exclusive OR)
+# In Python ^ operator is the bitwise XOR (exclusive OR) - tilt "^"
 """
 This operator performs a bitwise comparison between two integers, and it returns a new integer 
 where each bit is set to 1 if the corresponding bits of the operands are different, and 0 if they are the same
