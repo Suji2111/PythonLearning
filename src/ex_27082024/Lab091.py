@@ -1,0 +1,1 @@
+#Some examples for init file usage has been explained
